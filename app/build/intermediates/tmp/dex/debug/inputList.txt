@@ -1,0 +1,4 @@
+/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/classes/debug
+/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-c9ce2e117fd79123fbf62001739032987edd5e49.jar
+/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-786bdedcb8bb31c4f03922b18e0a28ffd05f91b3.jar
+/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/pre-dexed/debug/classes-93dba605c32193f549af27c070fd52cbe8e615fe.jar

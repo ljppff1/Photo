@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/liujun/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-c9ce2e117fd79123fbf62001739032987edd5e49.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/classes.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/pre-dexed/debug/classes-93dba605c32193f549af27c070fd52cbe8e615fe.jar" />
+    </item>
+    <item
+        jar="/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="23.0.0 rc2"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/Users/liujun/Documents/workspace/learnwhatother/Photo1/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-786bdedcb8bb31c4f03922b18e0a28ffd05f91b3.jar" />
+    </item>
+
+</items>
